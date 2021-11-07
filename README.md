@@ -29,7 +29,4 @@ Finally in the footer of the page shows the responsible of the creation of the w
 
 
 ## License
-
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
-
 Copyright (c) 11/06/2021 _Regulo Argotte_
